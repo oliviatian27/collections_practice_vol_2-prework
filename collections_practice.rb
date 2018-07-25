@@ -3,6 +3,7 @@ def begins_with_r(array)
     x.start_with?("r")
   end
  end
+<<<<<<< HEAD
 
 def contain_a(array)
   array.select do |x|
@@ -61,3 +62,5 @@ def organize_schools(hash)
   end
   result
 end
+=======
+>>>>>>> 2c15b4ddb43d68a7209c91105a37ab253664b4ad
